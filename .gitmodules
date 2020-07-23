@@ -1,1 +1,7 @@
 
+[submodule "3rdParty/ApproxMVBB"]
+	path = 3rdParty/ApproxMVBB
+	url = https://github.com/liangwancong/CRApproxMVBB.git
+[submodule "3rdParty/bbb"]
+	path = 3rdParty/bbb
+	url = https://github.com/liangwancong/CRApproxMVBB.git
